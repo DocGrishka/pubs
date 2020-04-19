@@ -3,7 +3,7 @@ from data.users import User
 import requests
 from data.news import SEPARATOR
 
-address = '127.0.0.1'
+address = 'http://127.0.0.1:80'
 
 
 # address = 'http://127.0.0.1:5000'
