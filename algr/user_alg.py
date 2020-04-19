@@ -3,7 +3,7 @@ from data.users import User
 import requests
 from data.news import SEPARATOR
 
-address = 'https://blooming-eyrie-77799.herokuapp.com'
+address = '127.0.0.1'
 
 
 # address = 'http://127.0.0.1:5000'
